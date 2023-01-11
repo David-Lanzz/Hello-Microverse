@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(46, 42, 42);
+}
+
+h1 {
+  color: aliceblue;
+}
