@@ -25,7 +25,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -145,11 +144,6 @@ githack
 - Twitter: [@twitterhandle](@LanzzDavid)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/lanzz-david-378b9a250)
 
-<!-- 👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
