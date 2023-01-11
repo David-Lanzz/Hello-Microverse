@@ -31,8 +31,7 @@
 
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
+> 
 **[Hello-Microverse]** is a Microverse assignment to test my knowledge on git,github and gitflow
 
 ## 🛠 Built With <a name="built-with">Visual Studio Code and Github</a>
@@ -64,8 +63,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
+> 
 - **[Fresh quality content]**
 - **[Speed and responsive]**
 - **[Easy to use]**
@@ -136,8 +134,7 @@ githack
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
+> 
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/David-Lanzz)
