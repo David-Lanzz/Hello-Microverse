@@ -60,18 +60,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello-Microverse-Repo] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello-Microverse-Repo]** is a...Microverse assignment to test my knowledge on git,github and gitflow
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">Visual Studio Code and Github</a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack">Frontend Technology</a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
+> The Tech stack used in this project is the frontend technology and it consists of just the index.html and styles.css files
 <details>
   <summary>Client</summary>
   <ul>
@@ -99,9 +98,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Fresh quality content]**
+- **[Speed and responsive]**
+- **[Easy to use]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
