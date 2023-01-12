@@ -1,15 +1,8 @@
 <a name="readme-top"></a>
-
-
-
-
-
-
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+ - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
@@ -28,7 +21,6 @@
 - [📝 License](#license)
 
 
-
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
 > 
@@ -40,26 +32,18 @@
 
 > The Tech stack used in this project is the frontend technology and it consists of just the index.html and styles.css files
 <details>
-  <summary>Client</summary>
+  <summary>Cascading Style Sheet</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Mark-Up Language</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
   </ul>
 </details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 
 ### Key Features <a name="key-features"></a>
 
@@ -79,8 +63,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > 
@@ -94,20 +76,19 @@ In order to run this project you need:
 A browser
 A good internet connection
 
-
- 
-
 ### Setup
 
 Clone this repository to your desired folder:
-
-
+- cd my-project
+  - git clone https://github.com/David-Lanzz/Hello-Microverse.git
 
 ### Install
 
 Install this project with:
 
-Google Chrome
+- cd my-project
+- npm install
+
 
 ### Usage
 
@@ -119,14 +100,10 @@ To run tests, run the following command:
 npx stylelint "**/*.{css,scss}"
 npx hint .
 
-
-
 ### Deployment
 
 You can deploy this project using:
 githack
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,14 +126,11 @@ githack
 
 > In the future,i will add the following to this project:
 
-
 - [ ] **[A navigation bar]**
 - [ ] **[A personal portfolio]**
 - [ ] **[My images]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -166,16 +140,12 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ## ⭐️ Show your support <a name="support"></a>
 
-> 
+>
 If you like this project... please leave me a comment in my twitter account, Thankyou
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -184,17 +154,10 @@ I would like to thank myself for putting in all this hardwork
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
